@@ -4,8 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 [Nn][Uu][Ll][Ll]
-[Ll]ogs
+[Ll][Oo][Gg][Ss]
+.alpackages
 .alpackages/
+.snapshots
+.snapshots/
 [Ss]ymbols/
 
 # User-specific files
