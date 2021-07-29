@@ -3,17 +3,21 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-*.app
+AppSourceCop.txt
 
 [Nn][Uu][Ll][Ll]
-[Ll][Oo][Gg][Ss]
+[Ll]ogs
 .alpackages
 .alpackages/
 .snapshots
 .snapshots/
 [Ss]ymbols/
 
+# Compiled BC files
+*.app
+
 # User-specific files
+rad.json
 *.suo
 *.sqlsuo
 *.user
